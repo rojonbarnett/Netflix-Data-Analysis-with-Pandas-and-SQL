@@ -3,7 +3,7 @@
 * Programmed a 2482 tuple SQL database of Netflix Top 10 TV Shows and Films across the globe from July 2021 to March 2022.
 * Aggregated over 700 million hours of viewership data with Pandas library to produce a Matplotlib line chart for each production category.
 ## Key Insights and Trends from July 2021 to March 2022: 
-[<img src = "Netflix Line Chart.png" alt = "Netflix Chart" title = "Netflix Line Chart" width = "256"/>]
+<img src = "Netflix Line Chart.png" alt = "Netflix Chart" title = "Netflix Line Chart" width = "256"/>
 </br>
 Netflix Data Line Chart </br>
 * From Chart: 
