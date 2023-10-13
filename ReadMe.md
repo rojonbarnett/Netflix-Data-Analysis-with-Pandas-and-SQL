@@ -4,7 +4,7 @@
 * Aggregated over 700 million hours of viewership data with Pandas library to produce a Matplotlib line chart for each production category.
 ## Key Insights and Trends from July 2021 to March 2022: 
 <img src = "Netflix Line Chart.png" alt = "Netflix Chart" title = "Netflix Line Chart" width = "256"/>
-</br>Netflix Data Line Chart </br>
+</br>Netflix Data Line Chart </br></br></br>
 * From Chart: 
   * Non-English TV experienced the highest increase in hourly viewership from September 2021 to October 2021.
     * This was the highest overall increase charted.
